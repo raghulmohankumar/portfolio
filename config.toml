@@ -149,11 +149,15 @@ url = "projects/"
 
 [[languages.en.menu.main]]
 name = "Download Resume"
-weight = 3
+weight = 4
 url = "resume.pdf"
 
+[[languages.en.menu.main]]
+name = "Interests"
+weight = 5
+url = "interests/"
 
 [[languages.en.menu.main]]
 name = "Contact me"
-weight = 5
+weight = 6
 url = "contact/"
