@@ -140,7 +140,7 @@ url = "about/"
 [[languages.en.menu.main]]
 name = "Blog"
 weight = 2
-url = "https://raghulmohankumar.netlify.app/"
+url = "https://raghulblogs.netlify.app/"
 
 [[languages.en.menu.main]]
 name = "Projects"
