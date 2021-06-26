@@ -14,7 +14,7 @@ enableEmoji = true
 [params]
 author = "Raghul Mohankumar"
 description = "Raghul Mohankumar's personal website"
-keywords = "electrical engineer,new product development,personal"
+keywords = "electrical engineer, new product development, personal"
 info = "Passionate Electrical Engineer and New Product Development Enthusiast"
 avatarURL = "img/avatar.jpg"
 
